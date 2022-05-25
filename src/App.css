@@ -7,11 +7,64 @@
   pointer-events: none;
 }
 
+.navbar_wrapper a{
+  padding-left: 30px;
+  text-decoration: none;
+
+}
+.delete{
+  color:white;
+ background-color:#a90b0b;
+  
+  padding:5px;
+  border-radius: 5px ;
+  cursor: pointer;
+}
+.update{
+  color:white;
+  background-color:green;
+   
+   padding:5px;
+   border-radius: 5px;
+   cursor: pointer;
+   text-decoration: none;
+
+}
+.take{
+  color:white;
+  background-color:green;
+   
+   padding:5px;
+   border-radius: 5px;
+   cursor: pointer;
+   text-decoration: none;
+}
+.booked{
+  color:white;
+  background-color:grey;
+   
+   padding:5px;
+   border-radius: 5px;
+   cursor: pointer;
+   
+
+}
+
+.rejected{
+  color:white;
+  background-color:red;
+   
+   padding:5px;
+   border-radius: 5px;
+   
+
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
 
 .App-header {
   background-color: #282c34;
