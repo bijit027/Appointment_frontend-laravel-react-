@@ -50,7 +50,7 @@ function TeacherAppointmentOperation() {
   return (
     <div>
       <TeacherHeader />
-      <h1>Product Listing</h1>
+      <h1>My Appointment List</h1>
       <div className="col-sm-8 offset-sm-2">
         <Table>
           <tr>

@@ -27,7 +27,7 @@ function ViewDepartment() {
   return (
     <div>
       <StudentHeader />
-      <h1>Subject Name</h1>
+      <h1>Department Name</h1>
       <div className="col-sm-8 offset-sm-2">
         <Table>
           <tr></tr>

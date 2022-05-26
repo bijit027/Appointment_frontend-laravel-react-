@@ -46,7 +46,7 @@ function ScheduleList() {
   return (
     <div>
       <StudentHeader />
-      <h1>Product Listing</h1>
+      <h1>Schedule List</h1>
       <div className="col-sm-8 offset-sm-2">
         <Table>
           <tr>

@@ -52,7 +52,7 @@ function TeacherUpdate(props) {
     <>
       <TeacherHeader />
       <div>
-        <h1>Update Schedule</h1>
+        <h1>Update Profile</h1>
 
         <br />
 
