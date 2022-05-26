@@ -53,9 +53,7 @@ function AdminUpdateTeacher(props) {
       <AdminHeader />
       <div>
         <h1>Update Schedule</h1>
-
         <br />
-
         <p>Name</p>
         <input
           type="name"
@@ -84,9 +82,7 @@ function AdminUpdateTeacher(props) {
           defaultValue={data.subject}
         />
         <br />
-
         <br />
-
         <button onClick={() => editSchedule(data.id)}>Update Profile</button>
       </div>
     </>
